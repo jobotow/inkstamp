@@ -1,4 +1,3 @@
-
 # Inkstamp
 
 **Inkstamp is a cross-platform terminal presentation library for Go — colors, alignment, padding and reusable templates in on compact DSL.**
@@ -9,7 +8,7 @@
 # Installation
 
 ```bash
-go get -u github.com/inkstamp/inkstamp
+go get -u codeberg.org/jobotow/inkstamp
 ```
 
 # Features
