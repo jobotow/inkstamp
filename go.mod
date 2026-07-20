@@ -1,4 +1,4 @@
-module github.com/inkstamp/inkstamp
+module codeberg.org/jobotow/inkstamp
 
 go 1.25.5
 
