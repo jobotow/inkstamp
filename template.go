@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 	"unicode"
-	"github.com/inkstamp/inkstamp/termcolor"
+	"codeberg.orginkstamp/inkstamp/termcolor"
 )
 
 type TempPart struct {
