@@ -5,7 +5,7 @@ import (
 	//"os"
 	"strconv"
 	"strings"
-	"github.com/inkstamp/inkstamp/termcolor"
+	"codeberg.org/inkstamp/inkstamp/termcolor"
 )
 
 
