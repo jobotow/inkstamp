@@ -5,7 +5,7 @@ import (
 	//"golang.org/x/term"
 	//"io"
 	"os"
-	"github.com/inkstamp/inkstamp/termcolor"
+	"codeberg.org/inkstamp/inkstamp/termcolor"
 	//"strconv"
 	//"strings"
 	//"unicode"
