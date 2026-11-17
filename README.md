@@ -165,7 +165,7 @@ for _, user := range users {
 # NOTES
 1. Colors automatically fallback based on terminal capability (truecolor -> 256 color palette -> ANSI 16 colors -> none)
 2. Padding measure visible text length , ignoring ANSi escape codes.
-3. Templates are immutable
+3. Templates are immutable.
 4. Always parse once, reuse many times.
 
 # Terminal Limitations (Not Inkstamp's)
